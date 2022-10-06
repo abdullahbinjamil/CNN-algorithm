@@ -1,1 +1,4 @@
 https://github.com/ivanvig/2dconv-FPGA
+https://github.com/lirui-shanghaitech/CNN-Accelerator-VLSI/blob/main/src/CONV_ACC.v
+https://www.youtube.com/watch?v=a2wOjxRf_xg
+https://www.youtube.com/watch?v=FDefITq14T0
